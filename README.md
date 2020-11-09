@@ -14,5 +14,5 @@ video of the performance has been captured using an iPhone 11. That video is the
 * gestureHub (gestureHub_1.2.1.maxpat and abstractions) - additional data interpretation
 * osc-receiver.amxd - receive OSC from gestureHub in Ableton Live, map to Kaivo VST
 * scratchingACello[4].mlpreset - Kaivo instrument preset
-* trace-differences_2020-11-07.als - ableton live set
+* trace-differences.als - ableton live set
 * trace-differences-gpu_0.3.maxpat - video processing
