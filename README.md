@@ -11,8 +11,11 @@ video of the performance has been captured using an iPhone 11. That video is the
 
 ## files
 * leapProcessing_PDM.pde - query LeapMotion API and perform initial data interpretation
-* gestureHub (gestureHub_1.2.1.maxpat and abstractions) - additional data interpretation
+* gestureHub (gestureHub_1.2.1.maxpat and js files) - additional data interpretation
 * osc-receiver.amxd - receive OSC from gestureHub in Ableton Live, map to Kaivo VST
 * scratchingACello[4].mlpreset - Kaivo instrument preset
 * trace-differences.als - ableton live set
 * trace-differences-gpu_0.3.maxpat - video processing
+
+## issues
+there are definitely bugs and probably some files missing from this repo that should be here. if you're trying to use this code and are having issues, please file an issue above, and i'd be happy to help.
